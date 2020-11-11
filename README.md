@@ -6,11 +6,13 @@
 ### Hi there, I'm 相佐 (Zuo Xiang)
 
 - 🔭 I'm currently working on [Build-VNF]: High-performance and energy-efficient virtual network functions running on servers.
-- 🌱 I'm currently learning `Rust`, `P4`, `DPDK` and `eBPF/XDP`.
+- 🌱 I'm currently learning `Go`, `Rust`, `P4`, `DPDK` and `eBPF/XDP`.
 - 👯 I’m looking to collaborate on projects related to programmable network data planes.
 - 💬 Ask me about Linux networking, SDN/NFV, COmputing In the Network (COIN).
 - 📫 How to reach me:  [Github], [Gmail], [LinkedIn].
-- ⚡ Fun fact: I'm currently a PhD student, but I'm not good at research :wink:.
+- ⚡ Fun fact: I'm currently a research assistant, but I'm not good at research :wink:.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevelorenz&exclude_repo=kl1p-test&show_icons=true&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <p align="center">
