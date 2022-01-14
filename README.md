@@ -1,18 +1,17 @@
 [Build-VNF]: https://github.com/stevelorenz/build-vnf
-[Gmail]: mailto:xianglinks@gmail.com
+[ComNetsEmu]: https://github.com/stevelorenz/comnetsemu
 [Github]: https://www.github.com/stevelorenz
+[Gmail]: mailto:xianglinks@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/zuo-xiang-480a45b4
 
 ### Hi there, I'm 相佐 (Zuo Xiang)
 
-- 🔭 I'm currently working on [Build-VNF]: High-performance and energy-efficient virtual network functions running on servers.
-- 🌱 I'm currently learning `Go`, `Rust`, `P4`, `DPDK` and `eBPF/XDP`.
-- 👯 I’m looking to collaborate on projects related to programmable network data planes.
-- 💬 Ask me about Linux networking, SDN/NFV, COmputing In the Network (COIN).
-- 📫 How to reach me:  [Github], [Gmail], [LinkedIn].
-- ⚡ Fun fact: I'm currently a research assistant, but I'm not good at research :wink:.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevelorenz&exclude_repo=kl1p-test&show_icons=true&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I'm currently working on [Build-VNF] and [ComNetsEmu]
+- 🌱 I'm currently learning NFV, SDN, `Go`, `Rust`, `P4`, `DPDK` and `eBPF/XDP`
+- 👯 I’m looking to collaborate on projects related to programmable NFV and SDN data planes
+- 💬 Ask me about Linux networking, SDN, NFV, COmputing In the Network (COIN)
+- 📫 How to reach me: [Github], [Gmail], [LinkedIn]
+- ⚡ Fun fact: I am currently a research assistant, but I am not good at pure research :wink:
 
 <!--
 <p align="center">
