@@ -4,14 +4,15 @@
 [Gmail]: mailto:xianglinks@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/zuo-xiang-480a45b4
 
-### Hi there, I'm 相佐 (Zuo Xiang)
+### Hi there, I'm 相佐 (Dr.-Ing. Zuo Xiang)
 
-- 🔭 I'm currently working on [Build-VNF] and [ComNetsEmu]
+- 🔭 During my PhD study, I worked on [Build-VNF] and [ComNetsEmu]. I'm now working on IOS-XE at Cisco CRDC, Shanghai
 - 🌱 I'm currently learning NFV, SDN, `Go`, `Rust`, `P4`, `DPDK` and `eBPF/XDP`
 - 👯 I’m looking to collaborate on projects related to programmable NFV and SDN data planes
 - 💬 Ask me about Linux networking, SDN, NFV, COmputing In the Network (COIN)
 - 📫 How to reach me: [Github], [Gmail], [LinkedIn]
-- ⚡ Fun fact: I am currently a research assistant, but I am not good at pure research :wink:
+- ⚡ Fun fact: I was a research assistant, but I am not good at pure research :wink: So, after my PhD I worked as a
+  Software Engineer
 
 <!--
 <p align="center">
